@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <script src="https://unpkg.com/feather-icons"></script>
+  <link rel="stylesheet" href="designcss.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="profile">
+      <div class="profile_container">
+        <div class="profile_profileImg">
+          <img src="priti.jpg" alt="picture">
+        </div>
+        <div>
+          <h1 class="profile_name">
+            <span class="profile_name_firstName">Neil Jayson</span>
+            <span class="profile_name_lastName">Labtis</span>
+          </h1>
+          <p class="profile_title">ICT Educator</p>
+          <p class="description profile_description">
+            <br>
+            I am a professional and well driven indivual who has a skills in Computer and Technology. Age: 20 years old
+            Birthday: April 2, 2002
+            Birthplace: Batac City, Ilocos Norte
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="group-1">
+      <div class="skills">
+        <h3 class="title">Skills and Interest</h3>
+        <ul class="skills_list description">
+          <li>Reading</li>
+          <li>Writing</li>
+          <li>Model</li>
+          <li>Travel/li>
+          <li>Photography</li>
+        </ul>
+      </div>
+      <div class="ref">
+        <h3 class="title">Reference</h3>
+        <div class="ref_item">
+          <h4 class="ref_name">Ms. Rachelle Beo</h4>
+          <p class="description">0906577736</p>
+        </div>
+        <div class="ref_item">
+          <h4 class="ref_name">Ms. Diana May Dafun</h4>
+          <p class="description"> 09162574187 </p>
+        </div>
+      </div>
+
+      <div class="edu">
+        <h3 class="title">Education</h3>
+        <div class="edu_item">
+          <p class="item_preTitle">2020-2024</p>
+          <h4 class="item_title">Tertiary</h4>
+          <p class="item_subtitle">
+            Technological University of the Philippines
+          </p>
+        </div>
+       
+        <div class="edu_item">
+          <p class="item_preTitle">2008-2014</p>
+          <h4 class="item_title">Elementary</h4>
+          <p class="item_subtitle">
+            Bagong Barrio Elementary School
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="group-2">
+      <div class="exp">
+        <h3 class="title">Experience</h3>
+        <div class="exp_item">
+          <p class="item_preTitle">2022 - present</p>
+          <h4 class="item_title">Concentrix Philippines</h4>
+          <p class="item_subtitle">CUSTOMER SERVICE REPRESENTATIVE</p>
+          <p class=" description">
+            8th to 11th Fl, SM Megamall (Bldg. C, Doña Julia Vargas Ave, Mandaluyong, 1554 Metro Manila
+          </p>
+        </div>
+        <div class="exp_item">
+          <p class="item_preTitle">2021</p>
+          <h4 class="item_title">SITEL PHILIPPINES CORPORATION</h4>
+          <p class="item_subtitle">CUSTOMER SERVICE REPRESENTATIVE</p>
+          <p class="description">
+            Eton Cyberpod Corinthian, corner EDSA, Ortigas Avenue, Quezon City
+          </p>
+        </div>
+      </div>
+      <div class="awards">
+        <h3 class="title">2022 - present</h3>
+        <div class="awards_item">
+          <p class="item_preTitle">Concentrix Philippines</p>
+          <h4 class="item_title">CUSTOMER SERVICE REPRESENTATIVE</h4>
+          <p class=" description">
+            Knowledgeable in customer service assistance, providing solution techniques with formal acceptance
+empathy.
+          </p>
+        </div>
+        <div class="awards_item">
+          <p class="item_preTitle">2021</p>
+          <h4 class="item_title">SITEL PHILIPPINES CORPORATION</h4>
+          <p class="description">
+            Well trained on company's metric scores on how to assist and upsell customers. Professionally well equipped how to take live calls and communicate with
+different customers hand in hand.
+          </p>
+        </div>
+      </div>
+
+      <div class="interest">
+        <h3 class="title">Interest</h3>
+        <div class="interest_items">
+          <div class="interest_item">
+            <i data-feather="music"></i>
+            <span>Music</span>
+          </div>
+          <div class="interest_item">
+            <i data-feather="book"></i>
+            <span>Books</span>
+          </div>
+          <div class="interest_item">
+            <i data-feather="map"></i>
+            <span>Travel</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <hr>
+    <div class="group-3">
+      <div class="contact">
+        <h3 class="title">Contact</h3>
+        <div class="contact_info">
+          <p class="description">
+            Bagong Barrio, Caloocan City
+          </p>
+          <p class="description">
+            +639606202594
+          </p>
+          <p class="description">
+            nlabtis@gmail.com
+          </p>
+        </div>
+      </div>
+      <div class="social">
+        <h3 class="title">Socials</h3>
+        <li>
+          <div class="icon">
+          
+          </div>
+          <div class="data">
+            <p class="semi-bold"></p>
+            <a href="https://www.facebook.com/njayyy.labtisx">FACEBOOK</a>
+          </div>
+        </li>
+        <li>
+          <div class="icon">
+          </div>
+          <div class="data">
+            <p class="semi-bold"></p>
+            <a href="https://twitter.com/_njysnlbts?s=21&t=rEw1UrKO5raKDpFZpeSaUA">TWITTER</a>
+          </div>
+        </li>
+        <li>
+          <div class="icon">
+          </div>
+          <div class="data">
+            <p class="semi-bold"></p>
+            <a href="https://instagram.com/njysnlbts?igshid=YmMyMTA2M2Y=">INSTAGRAM</a>
+          </div>
+        </li>
+        <li>
+          <div class="icon">
+          </div>
+          <div class="data">
+            <p class="semi-bold"></p>
+            <a href="CRUSH.html">WEBPAGE</a>
+          </div>
+        </li>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    feather.replace()
+  </script>
+</body>
+
+</html>
